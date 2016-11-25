@@ -1,0 +1,15 @@
+<RCC>
+  <qresource prefix="HuacaoManagement">
+    <file>Resources/CZ.jpg</file>
+    <file>Resources/MU.jpg</file>
+    <file>Resources/timeBar.jpg</file>
+    <file>Resources/1197030.png</file>
+    <file>Resources/1197037.png</file>
+    <file>Resources/add.png</file>
+    <file>Resources/del.png</file>
+    <file>Resources/topBar.PNG</file>
+    <file>Resources/lock.png</file>
+    <file>Resources/open.png</file>
+    <file>Resources/search.png</file>
+  </qresource>
+</RCC>
